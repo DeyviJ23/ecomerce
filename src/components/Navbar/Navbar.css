@@ -1,0 +1,37 @@
+.Titulo {
+    color: rgb(22, 204, 9);
+}
+
+.contenedorinicial{
+    width: 90%;
+    margin: auto;
+    border: 3px solid rgb(0, 0, 0);
+    background-color: rgb(114, 213, 235);
+}
+
+.navegadorinicial{
+    font-size: 1rem;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 60px;
+    padding: 20px 0;
+    
+}
+
+.navegadorinicial ul{
+    display: flex;
+}
+
+.navegadorinicial ul li{
+    padding: 50px;
+    list-style-type: none;
+    
+}
+
+
+.contenedorcart{
+    border: 2px solid rgb(35, 192, 84);
+    padding: 0.5rem;
+    background-color: chartreuse;
+}
