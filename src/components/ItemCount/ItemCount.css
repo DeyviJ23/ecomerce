@@ -1,0 +1,16 @@
+.buttonCount {
+    border-radius: 50%;
+    width: 35px;
+    height: 35px;
+    font-size: 1rem;
+    margin: 1rem;
+    background-color: lightgreen;
+}
+
+.buttonAgregar{
+    border-radius: 0.5rem;
+    padding: 0.5rem;
+    margin: 1rem;
+    font-size: 1rem;
+    background-color: greenyellow;
+}

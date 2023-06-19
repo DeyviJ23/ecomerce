@@ -1,0 +1,15 @@
+.cartProduct{
+    margin: 0 auto;
+    margin-top: 4rem;
+    border: 5px solid rgba(37, 157, 227, 0.185);
+    width: 20rem;
+    height: 25.5rem;
+    background-color: rgb(0, 0, 0, 0.15);
+}
+
+.buttonDetail{
+    border-radius: 0.5rem;
+    padding: 0.3rem;
+    font-size: 1rem;
+    background-color: rgba(37, 157, 227, 0.407);
+}
